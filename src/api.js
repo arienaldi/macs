@@ -55,7 +55,7 @@ class LineAPI {
     path: this.config.LINE_HTTP_URL,
     https: true
   }) {
-    options.headers['X-Line-Application'] = 'Nexus 6P Build/MMB29P Android 6.0.1';
+    options.headers['X-Line-Application'] = 'GT-I8190L Build/JZO54K   Android 4.1.20';
     this.options = options;
     this.connection =
       thrift.createHttpConnection(this.config.LINE_DOMAIN_3RD, 443, this.options);
