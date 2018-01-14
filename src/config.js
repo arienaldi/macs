@@ -36,7 +36,7 @@ const config = {
   LINE_SESSION_NAVER_URL: '/authct/v1/keys/naver',
   LINE_POST_CONTENT_URL: 'https://os.line.naver.jp/talk/m/upload.nhn',
   LINE_POST_CONTENT_URL_2ND: 'https://obs-sg.line-apps.com/talk/m/upload.nhn',
-  X_LINE_APP: 'Nexus 6P Build/MMB29P Android 6.0.1',
+  X_LINE_APP: 'GT-I8190L Build/JZO54K   Android 4.1.20',
   //X_LINE_APP: 'CHROMEOS	1.4.13	Chrome_OS	1',
   ip: '127.0.0.1',
   version: '0.0.2',
