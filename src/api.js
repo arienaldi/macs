@@ -55,7 +55,7 @@ class LineAPI {
     path: this.config.LINE_HTTP_URL,
     https: true
   }) {
-    options.headers['X-Line-Application'] = 'GT-I8190L Build/JZO54K   Android 4.1.20';
+    options.headers['X-Line-Application'] = 'DESKTOPWIN\t3.2.1.83\tWINDOWS\t5.1.2600-XP-x64';
     this.options = options;
     this.connection =
       thrift.createHttpConnection(this.config.LINE_DOMAIN_3RD, 443, this.options);
